@@ -4,24 +4,24 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/HappyAreaBean/SWMHook">
-    <img src="https://media.happyareabean.cc/images/swmhook/cover-provider.png" alt="Logo" width="1039">
+  <a href="https://github.com/HappyAreaBean/SlimeHook">
+    <img src="https://image-delivery.fantasyrealms.net/jdJvM2cFBroz1GbHBxJ9w5KcT9gt9Sq6md3BU2UGKAw/czM6Ly9iZWFuLWFzc2V0cy9vdGhlci9zdGF0aWMvc2xpbWVob29rL3Byb3ZpZGVycy5wbmc" alt="Logo" width="1039">
   </a>
 
-<h3 align="center">SWMHook | Providers</h3>
+<h3 align="center">SlimeHook | Providers</h3>
 
   <p>
-    Welcome to SWMHook Providers! Here you can find many different arena providers for SWMHook!
-    <br />Want to know more about SWMHook and what is SWMHook?<br />
-    <a href="https://github.com/HappyAreaBean/SWMHook"><strong>Check out SWMHook »</strong></a>
+    Welcome to SlimeHook Providers! Here you can find many different arena providers for SlimeHook!
+    <br />Want to know more about SlimeHook and what is SlimeHook?<br />
+    <a href="https://github.com/HappyAreaBean/SlimeHook"><strong>Check out SlimeHook »</strong></a>
     <br />
     <br />
     <h4>
-        <a href="https://github.com/HappyAreaBean/SWMHook/release">Download SWMHook from GitHub</a>
+        <a href="https://github.com/HappyAreaBean/SlimeHook/release">Download SlimeHook from GitHub</a>
         ·
-        <a href="https://github.com/HappyAreaBean/SWMHook/issues">Report Bug</a>
+        <a href="https://github.com/HappyAreaBean/SlimeHook/issues">Report Bug</a>
         ·
-        <a href="https://github.com/HappyAreaBean/SWMHook/issues">Request Feature</a>
+        <a href="https://github.com/HappyAreaBean/SlimeHook/issues">Request Feature</a>
         ·
         <a href="https://go.happyareabean.cc/supportdiscord">Discord Support</a>
     </h4>
@@ -43,7 +43,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About SWMHook</a>
+      <a href="#about-the-project">About SlimeHook</a>
     </li>
     <li>
       <a href="#supported-provider">Supported Arena Provider</a>
@@ -62,9 +62,9 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About SWMHook
+## About SlimeHook
 
-SWMHook is a spigot plugin that lets you use the SlimeWorldManager generated template world as an arena for several plugins.
+SlimeHook is a spigot/paper plugin that utilize SlimeWorldManager/AdvancedSlimePaper for generating template world as an arena for several plugins. 
 
 More showcase coming soon :)
 
@@ -73,7 +73,7 @@ More showcase coming soon :)
 <!-- SUPPORTED PROVIDER -->
 ## Supported Provider
 
-SWMHook currently supports below arena provider:
+SlimeHook currently supports below arena provider:
 
 - [Eden](https://github.com/diamond-rip/Eden)
 - [The Lab](https://www.spigotmc.org/resources/26665/)
@@ -86,15 +86,15 @@ More providers will be available soon.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on installing SWMHook in on your server.
+This is an example of how you may give instructions on installing SlimeHook in on your server.
 To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
 > **Warning**
-> These steps assumed you already have SWMHook installed!
+> These steps assumed you already have SlimeHook installed!
 
-1. Put your provider jar to `plugins/SWMHook/providers` folder
+1. Put your provider jar to `plugins/SlimeHook/providers` folder
 2. Restart your server
 3. The provider should be loaded now!
 
@@ -105,7 +105,7 @@ To get a local copy up and running follow these simple example steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-[Check the usage in SWMHook page](https://github.com/HappyAreaBean/SWMHook#usage)
+[Check the usage in SlimeHook page](https://github.com/HappyAreaBean/SlimeHook#usage)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -114,7 +114,7 @@ To get a local copy up and running follow these simple example steps.
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [SWMHook's open issues](https://github.com/HappyAreaBean/SWMHook/issues) for a full list of proposed features (and known issues).
+See the [SlimeHook's open issues](https://github.com/HappyAreaBean/SlimeHook/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -138,7 +138,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## Support my project
 
-If you want to support future development of SWMHook or this plugin helped you a lot.
+If you want to support future development of SlimeHook or this plugin helped you a lot.
 
 Don't forget to give it a star or buy me a coffee in [ko-fi.com][ko-fi-url]!
 
@@ -163,24 +163,24 @@ Distributed under the Apache-2.0 license. See `LICENSE` for more information.
 
 [![Discord][discord-shield]][discord-url]
 
-Project Link: [https://github.com/HappyAreaBean/SWMHook](https://github.com/HappyAreaBean/SWMHook)
+Project Link: [https://github.com/HappyAreaBean/SlimeHook](https://github.com/HappyAreaBean/SlimeHook)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[github-release-stable]: https://img.shields.io/github/v/release/HappyAreaBean/SWMHook.svg?label=plugin%20version&style=for-the-badge
-[github-release-latest]: https://img.shields.io/github/v/release/HappyAreaBean/SWMHook.svg?label=latest%20beta&style=for-the-badge
-[contributors-shield]: https://img.shields.io/github/contributors/HappyAreaBean/SWMHook.svg?style=for-the-badge
-[contributors-url]: https://github.com/HappyAreaBean/SWMHook/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/HappyAreaBean/SWMHook.svg?style=for-the-badge
-[forks-url]: https://github.com/HappyAreaBean/SWMHook/network/members
-[stars-shield]: https://img.shields.io/github/stars/HappyAreaBean/SWMHook.svg?style=for-the-badge
-[stars-url]: https://github.com/HappyAreaBean/SWMHook/stargazers
-[issues-shield]: https://img.shields.io/github/issues/HappyAreaBean/SWMHook.svg?style=for-the-badge
-[issues-url]: https://github.com/HappyAreaBean/SWMHook/issues
-[license-shield]: https://img.shields.io/github/license/HappyAreaBean/SWMHook.svg?style=for-the-badge
-[license-url]: https://github.com/HappyAreaBean/SWMHook/blob/master/LICENSE
+[github-release-stable]: https://img.shields.io/github/v/release/HappyAreaBean/SlimeHook.svg?label=plugin%20version&style=for-the-badge
+[github-release-latest]: https://img.shields.io/github/v/release/HappyAreaBean/SlimeHook.svg?label=latest%20beta&style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/HappyAreaBean/SlimeHook.svg?style=for-the-badge
+[contributors-url]: https://github.com/HappyAreaBean/SlimeHook/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/HappyAreaBean/SlimeHook.svg?style=for-the-badge
+[forks-url]: https://github.com/HappyAreaBean/SlimeHook/network/members
+[stars-shield]: https://img.shields.io/github/stars/HappyAreaBean/SlimeHook.svg?style=for-the-badge
+[stars-url]: https://github.com/HappyAreaBean/SlimeHook/stargazers
+[issues-shield]: https://img.shields.io/github/issues/HappyAreaBean/SlimeHook.svg?style=for-the-badge
+[issues-url]: https://github.com/HappyAreaBean/SlimeHook/issues
+[license-shield]: https://img.shields.io/github/license/HappyAreaBean/SlimeHook.svg?style=for-the-badge
+[license-url]: https://github.com/HappyAreaBean/SlimeHook/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
@@ -201,14 +201,14 @@ Project Link: [https://github.com/HappyAreaBean/SWMHook](https://github.com/Happ
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com
 
-[downloads-all-release]: https://img.shields.io/github/downloads/HappyAreaBean/SWMHook/total?style=for-the-badge
+[downloads-all-release]: https://img.shields.io/github/downloads/HappyAreaBean/SlimeHook/total?style=for-the-badge
 [discord-shield]: https://img.shields.io/discord/347679658369613826?color=697ec4&label=discord&logo=discord&logoColor=ffffff&style=for-the-badge
 [discord-url]: https://go.happyareabean.cc/supportdiscord
 
 [download-spigot]: https://img.shields.io/badge/Download%20from-SpigotMC-ed8106?style=for-the-badge
 [download-spigot-url]: https://www.spigotmc.org/resources/103413/
 [download-github]: https://img.shields.io/badge/Download%20from-github-181717?style=for-the-badge
-[download-github-url]: https://github.com/HappyAreaBean/SWMHook/releases
+[download-github-url]: https://github.com/HappyAreaBean/SlimeHook/releases
 
 [ko-fi-url]: https://ko-fi.com/happyareabean
 [ko-fi-badge]: https://ko-fi.com/img/githubbutton_sm.svg
